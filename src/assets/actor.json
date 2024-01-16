@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Robert",
+        "surname": "Downey Jr.",
+        "age": 56,
+        "image": "robert_downey_jr.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Chris",
+        "surname": "Evans",
+        "age": 40,
+        "image": "chris_evans.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Scarlett",
+        "surname": "Johansson",
+        "age": 37,
+        "image": "scarlett_johansson.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Tim",
+        "surname": "Robbins",
+        "age": 63,
+        "image": "tim_robbins.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Morgan",
+        "surname": "Freeman",
+        "age": 84,
+        "image": "morgan_freeman.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Leonardo",
+        "surname": "DiCaprio",
+        "age": 47,
+        "image": "leonardo_dicaprio.jpg"
+    }
+]

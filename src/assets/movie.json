@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Avengers: Endgame",
+    "image": "avengers.jpg",
+    "rating": 9.0,
+    "link": "/movies/avengers",
+    "plot": "The Avengers assemble to undo the devastation caused by Thanos and bring back the vanished."
+  },
+  {
+    "id": 2,
+    "title": "The Shawshank Redemption",
+    "image": "shawshank.jpg",
+    "rating": 9.3,
+    "link": "/movies/shawshank",
+    "plot": "A banker convicted of murder forms a close bond with fellow inmates during his life sentence."
+  },
+  {
+    "id": 3,
+    "title": "Inception",
+    "image": "inception.jpg",
+    "rating": 8.8,
+    "link": "/movies/inception",
+    "plot": "A skilled thief enters the dreams of others to steal their deepest secrets."
+  },
+  {
+    "id": 4,
+    "title": "The Dark Knight",
+    "image": "dark_knight.jpg",
+    "rating": 9.0,
+    "link": "/movies/dark-knight",
+    "plot": "Batman faces the Joker, a criminal mastermind seeking to create chaos in Gotham City."
+  },
+  {
+    "id": 5,
+    "title": "Pulp Fiction",
+    "image": "pulp_fiction.jpg",
+    "rating": 8.9,
+    "link": "/movies/pulp-fiction",
+    "plot": "The lives of several individuals intertwine in the criminal underworld of Los Angeles."
+  },
+  {
+    "id": 6,
+    "title": "The Matrix",
+    "image": "matrix.jpg",
+    "rating": 8.7,
+    "link": "/movies/matrix",
+    "plot": "A computer hacker discovers the shocking truth about his reality and joins a rebellion against the machines."
+  }
+]
